@@ -11,7 +11,7 @@ const Navbar = ({setShowLogin}) => {
     const {getTotalCartAmount}=useContext(StoreContext);
   return (
     <div className='navbar'>
-       <Link to='/' ><p alt="" className="log" > KhanaPina </p></Link>
+       <Link to='https://khanapina001.vercel.app/' ><p alt="" className="log" > KhanaPina </p></Link>
        <ul className="navbar-menu">
         <Link to="/" onClick={()=>setMenu("home")} className={menu==="home"?"active":""}>Home</Link>
         <a href= "#explore-menu" onClick={()=>setMenu("menu")} className={menu==="menu"?"active":""}>Menu</a>
