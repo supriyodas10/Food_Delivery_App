@@ -13,7 +13,7 @@ The application is deployed and accessible at [https://khanapina001.vercel.app/]
  ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/bf7d10dc-fec3-4090-8329-8dc7b0488fee)
 
 Adding to Cart: Users can add items to their cart from the menu.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/fabe8daa-a88f-4b77-bcce-bd5ed4d6fc37)
+![image](https://github.com/supriyodas10/Food_Delivery_App/blob/main/screenshots/Screenshot%202025-04-03%20203719.png?raw=true)
 
 Filtering: Users can filter menu items based on various criteria such as category, or dietary preferences.<br>
 ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/d3373fe4-0b14-4f89-ade2-cbaec08796b7)
