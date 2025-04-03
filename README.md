@@ -25,7 +25,7 @@ Order Placement: Users can input delivery information and place orders.<br>
 ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/de526971-c9c7-4235-93b2-dc2690c25b5d)
 
 Responsive Design: The application is responsive and suitable for various screen sizes.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/675a6a1c-e7db-4464-82e4-9c6755ddc715)
+![image](https://github.com/supriyodas10/Food_Delivery_App/blob/main/screenshots/Screenshot%202025-04-03%20203957.png?raw=true)
 
 
 ## Folder Structure
