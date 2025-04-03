@@ -16,7 +16,7 @@ Adding to Cart: Users can add items to their cart from the menu.<br>
 ![image](https://github.com/supriyodas10/Food_Delivery_App/blob/main/screenshots/Screenshot%202025-04-03%20203719.png?raw=true)
 
 Filtering: Users can filter menu items based on various criteria such as category, or dietary preferences.<br>
-![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/d3373fe4-0b14-4f89-ade2-cbaec08796b7)
+![image](https://github.com/supriyodas10/Food_Delivery_App/blob/main/screenshots/Screenshot%202025-04-03%20203748.png?raw=true)
 
 Cart Management: Users can view their cart, remove items, and proceed to checkout.<br>
 ![image](https://github.com/Sumithra49/Tomato-Food-delivery/assets/141726527/80fba764-bc79-4749-80cb-6dfa675ee8e1)
